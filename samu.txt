@@ -3,3 +3,5 @@ my edit in local
 =======
 This is my first time edit in git repository
 >>>>>>> b7c6f4ba95293336d4a32171d701fb5ae6781920
+
+branch: develop
